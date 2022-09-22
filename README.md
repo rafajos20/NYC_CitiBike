@@ -8,25 +8,3 @@ Full analysis can be found in the website below
 
 [CitiBike Analysis Page](https://public.tableau.com/app/profile/rafael.arreaza/viz/citiBike_Analysis/citiBikeAnalysis?publish=yes/)
 
-# VBA CHALLENGE
-## The Purpose:
-
-
-## The Refactored Script:
-
-
-
-![](resources/VBA_Challenge_2018_before.png)  
-![](resources/VBA_Challenge_2018.png)  
-
-
-
-
-## The Advantages:
-
-
- ## The Disadvantages:
-
-
-## Summary 
-[Belly Button Biodiversity](https://rafajos20.github.io/Belly_Button_Biodiversity/)
