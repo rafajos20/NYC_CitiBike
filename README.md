@@ -8,3 +8,10 @@ Full analysis can be found in the website below
 
 [CitiBike Analysis Page](https://public.tableau.com/app/profile/rafael.arreaza/viz/citiBike_Analysis/citiBikeAnalysis?publish=yes/)
 
+# High Points
+## Popular start locations:
+
+![](Resources/citib1.png)  
+
+- Popular start locations could be found around tourist attractions or other forms of mass transit.
+
