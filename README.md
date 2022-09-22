@@ -15,3 +15,17 @@ Full analysis can be found in the website below
 
 - Popular start locations could be found around tourist attractions or other forms of mass transit.
 
+## Start times and Days:
+
+![](Resources/citib2.png)  
+
+![](Resources/citib3.png)  
+-Analysis shows most used times gravitate around work commute hours, mainly on weekdays.
+
+## Age and Gender Use
+
+![](Resources/citib7.png) 
+
+-Analysis shows Males ages between 25-44 as highest users, followed by Females ages between 25-34 and 45-54 as second highest.
+
+
