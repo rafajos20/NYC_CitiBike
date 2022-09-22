@@ -48,7 +48,7 @@ The population of Des Moines, Iowa has about 31% in the age ranges of 20-39. Thi
 Comparing NYC and Des Moines public transit options would be a further analysis to determine if a similar program would be a profitable venture in Des Moines.
 Analyzing age of subscribers could be a good option to find age ranges to target for specific marketing campaigns.
 
-
+![](Resources/citi8.png) 
 
 
 
