@@ -5,6 +5,7 @@ After traveling to NYC and using their wonderful citiBike program, we would like
 
 # Results
 Full analysis can be found in the website below
+
 [CitiBike Analysis Page](https://public.tableau.com/app/profile/rafael.arreaza/viz/citiBike_Analysis/citiBikeAnalysis?publish=yes/)
 
 # VBA CHALLENGE
